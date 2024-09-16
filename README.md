@@ -30,3 +30,11 @@ Essa análise pode ser útil para a empresa de várias maneiras como por exemplo
 - Personalização de ofertas: A empresa pode oferecer ofertas personalizadas para cada cluster, por exemplo, ofertas de desconto para os clientes do Cluster 0 que fazem compras frequentes, ou ofertas de produtos de alto - - valor para os clientes do Cluster 3 que fazem compras de valor alto.
 - Foco em clientes de alto valor: A empresa pode focar em manter e agradar os clientes do Cluster 3, que fazem compras de valor muito alto, para garantir que eles continuem a fazer compras na loja.
 - Aumento da frequência de compras: A empresa pode criar estratégias para aumentar a frequência de compras dos clientes do Cluster 1 e 2, que fazem compras menos frequentes.
+
+  # Possiveis ações a serem realizadas
+
+- Criar campanhas de email marketing personalizadas para cada cluster, com ofertas e conteúdo relevantes para cada grupo de clientes.
+- Desenvolver programas de fidelidade para os clientes do Cluster 0 e 1, para incentivá-los a fazer mais compras.
+- Oferecer produtos de alto valor e exclusivos para os clientes do Cluster 3, para manter sua satisfação e fidelidade.
+- Criar estratégias de upselling e cross-selling para os clientes do Cluster 2, para aumentar o valor médio das suas compras.
+- Realizar análises adicionais para entender melhor as características e comportamentos dos clientes de cada cluster, para desenvolver estratégias mais eficazes de marketing e vendas.
