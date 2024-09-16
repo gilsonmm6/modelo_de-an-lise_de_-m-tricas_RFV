@@ -15,7 +15,7 @@ A partir desses clusters, gere insights para que a empresa possa segmentar melho
 Descrição do perfil de compras dos clientes por cluster
 
 - Cluster 0: Os clientes deste cluster têm uma recência média de 71 dias, o que significa que eles fazem compras frequentemente. Além disso, eles têm uma frequência média de 28 compras e um ticket médio de R$ 32. Esses clientes são frequentes e fazem compras de valor relativamente baixo.
-- 
+   
 - Cluster 1: Os clientes deste cluster têm uma recência média de 268 dias, o que significa que eles fazem compras menos frequentemente. Além disso, eles têm uma frequência média de 24 compras e um ticket médio de R$ 33. Esses clientes são menos frequentes e fazem compras de valor relativamente baixo.
 - 
 - Cluster 2: Os clientes deste cluster têm uma recência média de 156 dias, o que significa que eles fazem compras moderadamente frequentes. Além disso, eles têm uma frequência média de 3 compras e um ticket médio de R$ 754. Esses clientes são menos frequentes e fazem compras de valor relativamente alto.
