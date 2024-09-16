@@ -10,7 +10,7 @@ Você foi contratado por uma empresa de e-commerce que está buscando entender m
 
 A partir desses clusters, gere insights para que a empresa possa segmentar melhor a sua base de clientes e personalizar as suas campanhas de marketing, direcionando promoções e ofertas aos clientes com base no comportamento de compras.
 
-# Interpretação dos resultados obtidos:
+# Interpretação dos resultados obtidos
 
 Descrição do perfil de compras dos clientes por cluster
 
